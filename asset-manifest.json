@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/first-react-app/static/js/main.aebf7065.js",
+    "index.html": "/first-react-app/index.html",
+    "main.aebf7065.js.map": "/first-react-app/static/js/main.aebf7065.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aebf7065.js"
+  ]
+}
